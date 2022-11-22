@@ -1,2 +1,2 @@
 My first readme
-Never give up
+Never give up, always up to it
